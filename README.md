@@ -9,12 +9,12 @@
 
 ---
 
-### 🚀 Sobre Mim
-Analista de Dados & Desenvolvedor focado em transformar grandes volumes de dados em insights estratégicos utilizando Python, SQL e Big Data.
+### 🚀 About Me
 
-* 👨‍💻 **Desenvolvedor** com foco em Back-end e Big Data (Spark/PySpark).
-* 📊 **Especialista** em Power BI e consultas complexas em SQL.
-* 🎓 **Background acadêmico** em Sociologia e Educação, trazendo uma visão analítica e crítica para os dados.
+Data Analyst & Developer focused on transforming large volumes of data into strategic insights using Python, SQL, and Big Data technologies.
+* 👨‍💻 Developer focused on Back-End and Big Data (Spark/PySpark).
+* 📊 Specialations in Power BI and complex SQL queries.
+* 🎓 Academic background in Sociology and Education, bringing an analytical and critical perspective to data problem-solving.
 
 ---
 
@@ -23,3 +23,8 @@ Analista de Dados & Desenvolvedor focado em transformar grandes volumes de dados
 * [📈 Engenharia de Produção com IA (Power BI)](https://github.com/EmersonKnopp/dashboard-performance-vendas) - Previsão de séries temporais e detecção de anomalias.
 * [The Tilt Factor & Win-Condition Optimizer (Python)](https://github.com/EmersonKnopp/tilt-optimizer-lol) - Análise de micro-eficiência e comportamento de dados via API da Riot Games.
 ---
+📌 Featured Projects
+ 
+📊 Sales Performance Analysis (SQL) - Utilization of Window Functions and CTEs for growth metrics.(SQL)] (https://github.com/EmersonKnopp/analise-vendas-sql) Utilization of Window Functions and CTEs for growth metrics.
+📈 Production Engineering with AI (Power BI) - Time series forecasting and anomaly detection. (Power BI)](https://github.com/EmersonKnopp/dashboard-performance-vendas) Time series forecasting and anomaly detection.
+🎮 The Tilt Factor & Win-Condition Optimizer (Python)](https://github.com/EmersonKnopp/tilt-optimizer-lol) Analysis of micro-efficiency and data behavior via Riot Games API.
