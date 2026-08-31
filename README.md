@@ -22,5 +22,7 @@ Data Analyst & Developer focused on transforming large volumes of data into stra
 📌 Featured Projects
  
 📊 Sales Performance Analysis (SQL) - Utilization of Window Functions and CTEs for growth metrics.(SQL)] (https://github.com/EmersonKnopp/analise-vendas-sql) Utilization of Window Functions and CTEs for growth metrics.
+
 📈 Production Engineering with AI (Power BI) - Time series forecasting and anomaly detection. (Power BI)] (https://github.com/EmersonKnopp/dashboard-performance-vendas) Time series forecasting and anomaly detection.
+
 🎮 The Tilt Factor & Win-Condition Optimizer (Python)] (https://github.com/EmersonKnopp/tilt-optimizer-lol) Analysis of micro-efficiency and data behavior via Riot Games API.
